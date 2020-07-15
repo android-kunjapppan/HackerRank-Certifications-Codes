@@ -1,4 +1,7 @@
 # HackerRank-Python-Certification-Test
 
-![Certificate](download.png)
-![Certificate](hackerrank-cert.png)
+<p float="left">
+  <img src="/download.png" width="100" />
+  <img src="/hackerrank-cert.png" width="100" /> 
+</p>
+
