@@ -1,4 +1,4 @@
-# HackerRank-Python-Certification-Test
+# HackerRank-Certification
 
 <p float="left">
   <img src="/download.png" width="400" />
